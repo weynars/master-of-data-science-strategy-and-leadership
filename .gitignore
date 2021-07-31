@@ -1,3 +1,6 @@
+# Ignore downloaded folder
+practical_data_science/1_cli_basics/NYC_311calls_2018/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
