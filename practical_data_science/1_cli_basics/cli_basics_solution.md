@@ -1,3 +1,5 @@
+Source: https://www.practicaldatascience.org/html/exercises/Exercise_CommandLine_1_Basics.html
+
 **1. Download the data**
 `curl -LJO https://https://github.com/nickeubank/MIDS_Data/raw/master/NYC_311_ServiceRequests/NYC_311calls_2018.zip`
 
