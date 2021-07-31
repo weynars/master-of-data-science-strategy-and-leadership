@@ -22,4 +22,10 @@ It will be based in Python and requires you to have some basic programming, stat
 This course gives you a set of practical skills for handling real world data using tools like command line, python, jupyter, git, and github. We will learn how to set up a data science project workflow in order to collaborate with peers. We will look at the different data science algoritmns and libraries. Lastly we will learn how to answer important questions using quantitative analysis.
 
 ## Resources
-- [Practical Data Science](https://www.practicaldatascience.org/) - Duke MIDS Fall 2021 Practical Data Science (IDS 720) Course
+### Courses
+- [Practical Data Science - Duke University](https://www.practicaldatascience.org/)
+- [Data Science - Harvard](http://cs109.github.io/2015/pages/videos.html)
+### Books
+- [Python Data Science Handbook: Essential Tools for Working with Data by Jake VanderPlas](https://www.amazon.com.au/Python-Data-Science-Handbook-Essential-ebook/dp/B01N2JT3ST)
+- [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython, Second
+Edition by Wes McKinney](https://www.amazon.com/gp/product/1491957662)
