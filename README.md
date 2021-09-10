@@ -24,7 +24,7 @@ This course gives you a set of practical skills for handling real world data usi
 ## Resources
 ### Courses
 - [Practical Data Science - Duke University](https://www.practicaldatascience.org/)
-- [Data Science - Harvard](http://cs109.github.io/2015/pages/videos.html)
+- [Data Science - Harvard](http://cs109.github.io/2015/index.html)
 ### Books
 - [Python Data Science Handbook: Essential Tools for Working with Data by Jake VanderPlas](https://www.amazon.com.au/Python-Data-Science-Handbook-Essential-ebook/dp/B01N2JT3ST)
 - [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython, Second
