@@ -23,20 +23,15 @@ This program gives you a set of practical skills for handling real world data us
 
 ## Resources
 ### Courses
-<<<<<<< HEAD
-- [Practical Data Science - Duke University](https://www.practicaldatascience.org/)
-- [Data Science - Harvard](http://cs109.github.io/2015/index.html)
-=======
 - [Practical Data Science - Duke University](https://www.practicaldatascience.org/) __[completed]__ 
 Rating: 4/5
 Review: This course covers the basic of command line, pandas, plotting, jupyter and git. It lacked a bit in the modelling part.
-- [Data Science - Harvard](http://cs109.github.io/2015/pages/videos.html) __[completed]__
+- [Data Science - Harvard](http://cs109.github.io/2015/index.html) __[completed]__
 Rating: 2/5
 Review: I was able to go through the home exercises, however part of the code was outdate and wouldn't run and there is not class material available online for free so only enrolled studends are able to watch the classes.
 - [Practical Data Science Specialization - DEEPLEARNING.AI - Coursera](https://www.coursera.org/specializations/practical-data-science) __[completed]__
 Rating: 3.5/5
 Review: The course content is not as advanced as I thought it would be, it covers the services available on SageMaker but the exercises were quite easy and most of the content I already knew from using SageMaker before.
->>>>>>> d789085dbd3ef0dc22da9d350fa66e752f6fd705
 ### Books
 - [Python Data Science Handbook: Essential Tools for Working with Data by Jake VanderPlas](https://www.amazon.com.au/Python-Data-Science-Handbook-Essential-ebook/dp/B01N2JT3ST)
 - [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython, Second
